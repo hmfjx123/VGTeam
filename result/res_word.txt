@@ -1,0 +1,120 @@
+User Input: video about Adventure
+Total Loops: 24
+Total Token Length: 823
+Communicate Time: 169.29291653633118
+Total Time: 385.70106077194214
+----
+User Input: video about Tranquility
+Total Loops: 34
+Total Token Length: 897
+Communicate Time: 261.6364450454712
+Total Time: 374.0988757610321
+----
+User Input: video about Exploration
+Total Loops: 32
+Total Token Length: 723
+Communicate Time: 158.0606484413147
+Total Time: 336.7400093078613
+----
+User Input: video about Innovation
+Total Loops: 26
+Total Token Length: 1343
+Communicate Time: 210.44641542434692
+Total Time: 360.80046701431274
+----
+User Input: video about Harmony
+Total Loops: 22
+Total Token Length: 716
+Communicate Time: 167.2318925857544
+Total Time: 379.84887433052063
+----
+User Input: video about Heritage
+Total Loops: 22
+Total Token Length: 568
+Communicate Time: 155.49331974983215
+Total Time: 445.74064111709595
+----
+User Input: video about Culture
+Total Loops: 22
+Total Token Length: 424
+Communicate Time: 134.75862956047058
+Total Time: 353.9597225189209
+----
+User Input: video about Technology
+Total Loops: 26
+Total Token Length: 994
+Communicate Time: 164.76556968688965
+Total Time: 322.26707696914673
+----
+User Input: video about Sustainability
+Total Loops: 36
+Total Token Length: 951
+Communicate Time: 180.70805048942566
+Total Time: 251.4918727874756
+----
+User Input: video about Artistry
+Total Loops: 22
+Total Token Length: 663
+Communicate Time: 135.8555178642273
+Total Time: 283.1490421295166
+----
+User Input: video about Festivity
+Total Loops: 22
+Total Token Length: 426
+Communicate Time: 133.4631702899933
+Total Time: 342.32408452033997
+----
+User Input: video about Cosmos
+Total Loops: 26
+Total Token Length: 511
+Communicate Time: 136.0518033504486
+Total Time: 318.8316333293915
+----
+User Input: video about Nostalgia
+Total Loops: 22
+Total Token Length: 399
+Communicate Time: 141.90425944328308
+Total Time: 299.44832396507263
+----
+User Input: video about Futurism
+Total Loops: 22
+Total Token Length: 495
+Communicate Time: 133.1522307395935
+Total Time: 333.37931847572327
+----
+User Input: video about Serenity
+Total Loops: 24
+Total Token Length: 643
+Communicate Time: 137.9773452281952
+Total Time: 262.95062494277954
+----
+User Input: video about Thriller
+Total Loops: 22
+Total Token Length: 298
+Communicate Time: 126.79143071174622
+Total Time: 234.16792750358582
+----
+User Input: video about Wilderness
+Total Loops: 23
+Total Token Length: 487
+Communicate Time: 138.9019639492035
+Total Time: 338.7202832698822
+----
+User Input: video about Renaissance
+Total Loops: 22
+Total Token Length: 770
+Communicate Time: 154.74619960784912
+Total Time: 417.1001195907593
+----
+User Input: video about Elegance
+Total Loops: 42
+Total Token Length: 854
+Communicate Time: 284.12196493148804
+Total Time: 671.3300492763519
+----
+User Input: video about Mythology
+Total Loops: 26
+Total Token Length: 1317
+Communicate Time: 177.67043781280518
+Total Time: 332.02921891212463
+----
