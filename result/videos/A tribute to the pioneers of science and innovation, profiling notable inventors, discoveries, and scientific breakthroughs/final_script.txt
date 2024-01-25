@@ -1,0 +1,21 @@
+Scenario 1:
+[Setting: A dimly lit laboratory with shelves filled with vials and equipment.]
+Narration: In the early 18th century, the world's first vaccine was discovered by Edward Jenner, paving the way for the eradication of deadly diseases.
+
+Scenario 2:
+[Setting: A workshop cluttered with gears and tools.]
+Narration: The Industrial Revolution was fueled by the brilliant mind of James Watt, who invented the steam engine and revolutionized transportation and manufacturing.
+
+Scenario 3:
+[Setting: A lush garden with colorful flowers and plants.]
+Narration: Gregor Mendel, known as the father of genetics, conducted groundbreaking experiments with pea plants, unraveling the secrets of heredity.
+
+Scenario 4:
+[Setting: A cluttered office with stacks of papers and a chalkboard covered in equations.]
+Narration: Albert Einstein's theory of relativity reshaped our understanding of the universe, revealing the nature of space, time, and gravity.
+
+Scenario 5:
+[Setting: A modern laboratory with state-of-the-art equipment and scientists in white coats.]
+Narration: Rosalind Franklin's pioneering research on DNA's structure paved the way for the discovery of the double helix, revolutionizing the field of genetics.
+
+[End of script]

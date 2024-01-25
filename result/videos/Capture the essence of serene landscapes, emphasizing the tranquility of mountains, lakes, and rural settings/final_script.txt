@@ -1,0 +1,16 @@
+Scenario 1:
+Narration: High in the mountains, nature's serenity whispers through mist. Towering peaks reach for the sky, filling the soul with tranquility.
+ 
+Scenario 2:
+Narration: A crystal-clear lake reflects the beauty around it, a serene oasis amidst rolling hills, inviting peace and stillness to prevail.
+ 
+Scenario 3:
+Narration: In a rural setting, a quaint farmhouse offers solace amidst vast fields and gentle breezes, a tranquil haven for weary souls.
+ 
+Scenario 4:
+Narration: A hidden waterfall descends down mossy cliffs, its cascading waters harmonize with chirping birds, creating a soothing melody of tranquility.
+ 
+Scenario 5:
+Narration: Twilight arrives, bathing mountains, lakes, and rural settings in a warm glow. Peace abounds as nature embraces the tranquility of the night.
+ 
+Notes: Each scenario is marked with "Scenario" followed by a number. Each narration is marked with "Narration" followed by a brief description or statement. Narrations are limited to 30 words or less.

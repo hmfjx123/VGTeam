@@ -1,0 +1,16 @@
+Scenario 1: Rainforest
+[Narration] Welcome to the lush rainforest, teeming with life. Towering trees provide a canopy for exotic animals like toucans and monkeys. Listen closely to the symphony of vibrant birdcalls and rustling leaves.
+
+Scenario 2: Coral Reef
+[Narration] Dive into the vibrant world of the coral reef. Colorful fish dart through coral formations, while graceful sea turtles glide past. Observe the delicate balance that sustains this underwater paradise.
+
+Scenario 3: Grassland
+[Narration] Encounter the vastness of the grassland. Herds of wildebeest and zebra roam freely, grazing on the open plains. Watch as predators like lions and cheetahs showcase their hunting prowess.
+
+Scenario 4: Arctic Tundra
+[Narration] Experience the harsh yet enchanting Arctic tundra. Witness the elegant dance of the northern lights as polar bears navigate icy landscapes. Be amazed by the resilience of life in this frozen wilderness.
+
+Scenario 5: Desert
+[Narration] Step into the vast expanse of the desert, where the sun blazes relentlessly. Marvel at the adaptability of cacti and camels as they survive in this harsh environment. Discover the beauty hidden within the dunes.
+
+[End of Script]
